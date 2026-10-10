@@ -11,6 +11,18 @@ Create a Database hostel.
 Import database hostel.sql
 Open Your browser put inside browser http://localhost/hostel/
 
+
+
+**Preview**
+
+<img width="1907" height="914" alt="Image" src="https://github.com/user-attachments/assets/ed8afe57-288f-4ff7-a0e7-fe48f078ee64" />
+
+
+
+
+
+
+
 ****************************Login Details****************************
 
 ****************************Login Details for admin**************************** 

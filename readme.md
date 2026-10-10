@@ -26,9 +26,12 @@ Open Your browser put inside browser http://localhost/hostel/
 ****************************Login Details****************************
 
 ****************************Login Details for admin**************************** 
+<code>
+
 Usenrame: admin
 Password: Watch This Full Video
 
+</code>
 ****************************Login Details for user****************************
 Username: test@gmail.com
 Password: Test@123

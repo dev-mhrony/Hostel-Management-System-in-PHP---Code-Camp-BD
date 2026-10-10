@@ -33,6 +33,11 @@ Password: Watch This Full Video
 
 </code>
 ****************************Login Details for user****************************
+<code>
+
 Username: test@gmail.com
 Password: Test@123
+
 Or Register a new user
+
+</code>
